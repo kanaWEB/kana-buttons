@@ -1,1 +1,1 @@
-Boutons : Appuyé
+Appuie sur un bouton

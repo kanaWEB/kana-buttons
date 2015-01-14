@@ -1,0 +1,1 @@
+objects,collector,trigger,buttons,gpios,pull-up

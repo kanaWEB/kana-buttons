@@ -1,1 +1,1 @@
-Buttons : Pushed
+Press a button

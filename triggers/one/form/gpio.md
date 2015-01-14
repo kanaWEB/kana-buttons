@@ -1,3 +1,3 @@
 id            |name               |type          |options       
 --------------|-------------------|--------------|--------------
-code          |Button             |select        |object
+gpio          |Button             |select        |object
